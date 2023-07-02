@@ -1,8 +1,0 @@
-baseURL = "http://tkwsnb.net"
-languageCode = "ja"
-title = "Remember Times."
-theme = 'Beautifulhugo'
-
-[author]
-	name = "常盤しのぶ"
-	bio = ""
