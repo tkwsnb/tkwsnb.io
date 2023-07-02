@@ -1,0 +1,10 @@
+baseURL = "http://tkwsnb.net"
+languageCode = "ja"
+title = "Remember Times."
+theme = 'Beautifulhugo'
+
+[author]
+	name = "常盤しのぶ"
+	bio = "映画好きの生活困窮者"
+	job = "自称福山雅治"
+	location = "Japan"
