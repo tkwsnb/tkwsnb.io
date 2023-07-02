@@ -1,0 +1,7 @@
+baseURL = "https://github.com/tkwsnb/tkwsnb.io/"
+publishDir = "docs"
+languageCode = "ja"
+title = "Remember Times."
+
+
+
